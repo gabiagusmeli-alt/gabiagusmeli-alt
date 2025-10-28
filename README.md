@@ -1,10 +1,10 @@
 
   
-  # 👋 ¡Hola! Soy Gabriel Melis
+  # 👋 ¡Hola! Soy Gabriel Meli
   
   ### Desarrollador de Machine Lerning y Data sciense  
   [![GitHub followers](https://img.shields.io/github/followers/tunombredeusuario?label=Sígueme&style=social)](https://github.com/gabiagusmeli-alt)
-  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)www.linkedin.com/in/gabriel-meli-4a298b396
+  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)(www.linkedin.com/in/gabriel-meli-4a298b396)
   [![Ubicación](https://img.shields.io/badge/Ubicación-Tanti%2C%20Argentina-brightgreen?style=flat-square)
 
 
