@@ -10,9 +10,8 @@
 
 ## 🌟 Sobre Mí
 
-Estudiante de **Ciencias de la Computación** (20 años) apasionado por la **creación de programas complejos**, el desarrollo de **modelos de Machine Learning** y el análisis avanzado en **Data Science**. Mi enfoque es construir soluciones robustas que demuestren un alto desempeño.
+Estudiante de **Ciencias de la Computación** (20 años) apasionado por la **creación de programas complejos**, el desarrollo e investigacion de **modelos de Machine Learning** . Mi enfoque es construir soluciones robustas que demuestren un alto desempeño.
 
-* 🔭 **Actualmente trabajando en:** Un modelo de **análisis de manos** para interacción con interfaz gráfica, combinando el poder de **TensorFlow** para el procesamiento de imágenes y **PyQT6** para el desarrollo de la GUI.
 * 🌱 **Desarrollo de Habilidades (Enfoque actual):** Estoy **profundizando en la contenerización con Docker**, buscando optimizar mis entornos de desarrollo y despliegue para ML/DS.
 * 💡 **Mi filosofía de desarrollo:** Compromiso con el **código limpio**, **pruebas unitarias rigurosas** y la **optimización del desempeño**.
 * 🤝 **Buscando:** Colaborar en proyectos *open-source* o enfrentar **retos complejos** que involucren el **manejo avanzado de bases de datos** y sistemas de alto rendimiento.
@@ -22,7 +21,6 @@ Estudiante de **Ciencias de la Computación** (20 años) apasionado por la **cre
 
 | Categoría | Tecnologías Clave |
 | :--- | :--- |
-| **Machine Learning / DS** | **TensorFlow**, Keras, Scikit-learn, Pandas, NumPy, Matplotlib |
 | **Lenguajes** | **Python**, C |
 | **Interfaces Gráficas (GUI)** | **PyQT6** |
 | **Contenerización** | **Docker** (Adquiriendo experiencia) |
