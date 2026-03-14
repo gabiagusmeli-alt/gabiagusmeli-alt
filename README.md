@@ -37,17 +37,6 @@ Estudiante de **Ciencias de la Computación** (20 años) apasionado por la **cre
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-Aquí se refleja mi actividad y dedicación al código.
-
-[![Gabriel Meli GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabiagusmeli-alt&show_icons=true&theme=radical&hide_border=true)](https://github.com/gabiagusmeli-alt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiagusmeli-alt&layout=compact&theme=radical&hide_border=true)](https://github.com/gabiagusmeli-alt)
-
-*(**Nota:** Estas estadísticas son generadas automáticamente por GitHub Readme Stats usando tu nombre de usuario `gabiagusmeli-alt`.)*
-
----
-
 ## 📫 Conéctate Conmigo
 
 Estoy siempre abierto a nuevas oportunidades, colaboración en proyectos o simplemente una buena conversación sobre tecnología.
