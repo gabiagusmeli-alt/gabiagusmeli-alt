@@ -47,4 +47,4 @@ Estoy siempre abierto a nuevas oportunidades, colaboración en proyectos o simpl
 | **LinkedIn** | [Gabriel Meli](https://www.linkedin.com/in/gabriel-meli-4a298b396) |
 | **Correo** | gabiagusmeli@gmail.com |
 
-**¡Gracias por visitar mi perfil!** 🤖
+
