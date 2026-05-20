@@ -33,7 +33,7 @@ Estudiante de **Ciencias de la Computación** (20 años) apasionado por la **cre
 ### 1. Prime-imagen-factory
 * **Descripción:** Programa único que genera una **representación visual de imágenes** utilizando un gran **número primo de 2500 caracteres** para formar su estructura en pantalla. Un ejercicio de computación compleja y visualización.
 * **Tecnologías:** **PyQT6**, Pillow, **Python** y **C** (para el procesamiento de bajo nivel).
-* **[Link al Repositorio]** (Añade aquí el link al repo si existe)
+
 
 ---
 
