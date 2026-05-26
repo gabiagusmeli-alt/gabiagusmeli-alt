@@ -135,7 +135,6 @@ Herramienta profesional para diseñadores y desarrolladores frontend. Genera **p
 
 **Stack técnico:** `Flask` `Jinja2` `Python colorsys` `HTML5` `CSS3` `JavaScript Vanilla`
 
-**Live:** Desplegable en Heroku/Render
 
 ---
 
