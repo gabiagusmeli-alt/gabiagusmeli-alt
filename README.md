@@ -154,24 +154,7 @@ Aplicación profesional para gestionar marcas de agua en imágenes con **arquite
 
 **Estado:** 🚧 Estructura base completada. Implementación de features en progreso.
 
----
 
-### 4️⃣ **🎹 HandVision Piano — Instrumento con Visión Artificial**
-> **Computer Vision · MediaPipe · OpenCV · Pygame · Real-time Processing**
-
-Piano virtual controlado por **gestos de la mano** usando cámara web:
-- ✅ Detección de 21 landmarks por mano con **MediaPipe**
-- ✅ Mapeo de dedos → notas musicales
-- ✅ Reproducción de audio en tiempo real con **Pygame**
-- ✅ Soporte mano izquierda y derecha
-- ✅ Notas sostenidas y técnica de octavas
-- ✅ Latencia ultra-baja (~20ms)
-
-**Stack técnico:** `MediaPipe` `OpenCV` `Pygame` `NumPy` `Threading` `Computer Vision`
-
-**Capacidades:** Reconocimiento gestual, síntesis de audio, procesamiento en tiempo real
-
----
 
 ### 5️⃣ **🔢 Prime-Imagen-Factory — Arte Matemático**
 > **Generative Art · PyQt6 · C Extensions · Pillow · Python**
@@ -204,19 +187,7 @@ Sitio web profesional de portafolio:
 
 **Stack técnico:** `Flask` `Jinja2` `Gunicorn` `HTML5` `CSS3 Avanzado` `JavaScript`
 
----
 
-### 7️⃣ **🎵 Ezquisofono — Síntesis de Audio** ⚙️ *Experimental*
-> **Audio Processing · Pygame · Numpy · Signal Processing**
-
-Proyecto experimental de procesamiento y síntesis de audio:
-- Exploración de generación procedural de sonido
-- Síntesis de ondas (sinusoidal, square, triangle, saw)
-- Procesamiento de señales de audio en tiempo real
-
-**Stack técnico:** `Pygame Mixer` `NumPy` `Audio DSP` `Signal Processing`
-
----
 
 ---
 
